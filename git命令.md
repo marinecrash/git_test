@@ -3,3 +3,4 @@ git pull
 git push
 git clone3
 git clonecmd111
+master
