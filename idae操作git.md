@@ -8,3 +8,4 @@ idea commit1
 cmd commit3
 cmd commit4
 idea commit2
+cmd commit5
