@@ -4,3 +4,4 @@ git cloneidea
 git clonecmd
 cmd commit1
 cmd commit2
+cmd commit3
