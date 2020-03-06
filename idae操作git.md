@@ -5,3 +5,4 @@ git clonecmd
 cmd commit1
 cmd commit2
 idea commit1
+cmd commit3
