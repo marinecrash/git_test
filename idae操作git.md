@@ -6,4 +6,5 @@ cmd commit1
 cmd commit2
 idea commit1
 cmd commit3
+cmd commit4
 idea commit2
