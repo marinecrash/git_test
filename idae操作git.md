@@ -9,3 +9,4 @@ cmd commit3
 cmd commit4
 idea commit2
 cmd commit5
+dev cmd commit1
