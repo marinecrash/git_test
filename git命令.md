@@ -6,3 +6,4 @@ git clonecmd111
 master
 git cloneidea
 git branch
+git log
