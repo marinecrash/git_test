@@ -11,3 +11,4 @@ idea commit2
 cmd commit5
 cmd commit6
 idea commit3
+idea commit4
